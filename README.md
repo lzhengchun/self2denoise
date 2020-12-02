@@ -7,3 +7,5 @@ run code with
 - the file name is hardcoded so far, please update your filename in data.py[note, there are two lines contain filename]
 - you need to make sure that your images pixels have values in range [0, 255], otherwise you need to normalize it 
 in data.py file 
+
+[model training work flow](img/flow.png)
